@@ -1,4 +1,4 @@
-# Intro to Engineering
+# Introduction to Engineering
 ## Automated Attendance Tracking
 
 A Python program designed to help teachers streamline attendance.
